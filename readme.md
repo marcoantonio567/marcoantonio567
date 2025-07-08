@@ -1,17 +1,17 @@
 <h1 align="center">Marco Antonio 🚀</h1>
-<h3 align="center">Especialista em Automação de Processos</h3>
+<h3 align="center">Automação de Processos | Apaixonado por IA 🤖</h3>
 
 ---
 
 ### 🧩 Sobre mim
 
-Sou desenvolvedor com foco em **automação, back-end e integrações eficientes**. Tenho paixão por resolver problemas com código, transformar processos manuais em automações inteligentes e criar aplicações que realmente fazem a diferença.
+Sou um desenvolvedor com foco em **automação, back-end e inteligência artificial**. Trabalho transformando rotinas manuais em soluções automáticas e inteligentes, integrando sistemas, APIs e bancos de dados com eficiência.
 
-- 🔧 Automatizo processos com **Python** e **PyAutoGUI**
-- 🧠 Desenvolvo APIs com **Django**, **Flask** e banco de dados **SQL**
-- 🌐 Crio interfaces web com **HTML**, **CSS** e **JavaScript**
-- 🧪 Testo e documento com **Postman**
-- ⚙️ Integro sistemas, APIs e fluxos operacionais
+- 🐍 Experiência sólida com **Python**, **Django** e **Flask**
+- 🌐 Criação de interfaces com **HTML**, **CSS** e **JavaScript**
+- 🧰 Integração de sistemas com **Postman**, **MySQL**, **SQLite**
+- ⚙️ Automação com **PyAutoGUI** e scripts personalizados
+- 🧠 Estudando **Agentes de IA, LLMs, RAG** e aplicações de IA generativa
 
 ---
 
@@ -23,8 +23,17 @@ Sou desenvolvedor com foco em **automação, back-end e integrações eficientes
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyAutoGUI-Automação-00b894?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Processos-Automáticos-blue?style=for-the-badge&logo=gear&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-Estudando-6c5ce7?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
+---
+
+### 📚 Atualmente aprendendo
+
+- 🤖 Agentes de IA autônomos e pipelines com LLMs
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔄 Integrações assíncronas e arquiteturas reativas
+- 🧼 Clean Code e boas práticas em Python
 
 ---
 
@@ -40,19 +49,11 @@ Sou desenvolvedor com foco em **automação, back-end e integrações eficientes
 
 ---
 
-### 📚 Atualmente aprendendo
-
-- 🧩 Integrações RESTful avançadas
-- 🔄 Processos assíncronos e filas de tarefas com Celery
-- 🧼 Clean Code e boas práticas em Python
-
----
-
 ### 📫 Contato
 
-- ✉️ Email: **2msoftware.tecnologia@email.com**
+- ✉️ Email: **[2msoftware.tecnologia@gmail.com]**
 
 
 ---
 
-<p align="center">🌟 Sempre aprendendo, sempre evoluindo 🌟</p>
+<p align="center">🧠 “Código é criatividade em forma de lógica.”</p>
