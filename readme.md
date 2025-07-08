@@ -1,58 +1,59 @@
-<h1 align="center">👋 Olá, eu sou o Marco antonio</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Fullstack;Especialista+em+Automação;Python+%7C+Django+%7C+Flask+%7C+SQL;Apaixonado+por+tecnologia+e+produtividade&center=true&width=500&height=45&pause=1000" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+<h1 align="center">Marco Antonio 🚀</h1>
+<h3 align="center">Especialista em Automação de Processos</h3>
 
 ---
 
-### 🚀 Sobre mim
-Sou um desenvolvedor apaixonado por resolver problemas reais com código. Tenho experiência com desenvolvimento web, automação de processos e integração entre sistemas. Sempre buscando otimizar processos e tornar tarefas repetitivas mais eficientes.
+### 🧩 Sobre mim
+
+Sou desenvolvedor com foco em **automação, back-end e integrações eficientes**. Tenho paixão por resolver problemas com código, transformar processos manuais em automações inteligentes e criar aplicações que realmente fazem a diferença.
+
+- 🔧 Automatizo processos com **Python** e **PyAutoGUI**
+- 🧠 Desenvolvo APIs com **Django**, **Flask** e banco de dados **SQL**
+- 🌐 Crio interfaces web com **HTML**, **CSS** e **JavaScript**
+- 🧪 Testo e documento com **Postman**
+- ⚙️ Integro sistemas, APIs e fluxos operacionais
 
 ---
 
-### 💻 Tecnologias que utilizo
+### 💼 Tecnologias que utilizo
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyAutoGUI-FFCE00?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Automação-00b894?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,sqlite,mysql,postman,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyAutoGUI-Automação-00b894?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Processos-Automáticos-blue?style=for-the-badge&logo=gear&logoColor=white"/>
 </p>
 
 ---
 
-### 🧠 O que estou estudando agora
-- 🔄 Integrações avançadas com APIs REST
-- 🐍 Boas práticas e design patterns com Python
-- ⚙️ Processos assíncronos e automação em escala
-- 🤖 Agentes de IA
+### 📊 GitHub Stats
 
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcoantonio567&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=marcoantonio567&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_AQUI&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Como me encontrar
-- ✉️ Email: 2msoftware.tecnologia@gmail
+### 📚 Atualmente aprendendo
+
+- 🧩 Integrações RESTful avançadas
+- 🔄 Processos assíncronos e filas de tarefas com Celery
+- 🧼 Clean Code e boas práticas em Python
 
 ---
 
-<p align="center">Feito com ❤️ e muita cafeína ☕</p>
+### 📫 Contato
+
+- ✉️ Email: **seuemail@email.com**
+- 💼 LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)
+- 🔗 Portfólio (opcional): [seusite.com](https://seusite.com)
+
+---
+
+<p align="center">🌟 Sempre aprendendo, sempre evoluindo 🌟</p>
