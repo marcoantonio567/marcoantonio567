@@ -22,11 +22,6 @@ Sou um desenvolvedor com foco em **automação, back-end e inteligência artific
   <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,sqlite,mysql,postman,pyautogui,git,vscode,openai" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI‑Agents‑🚀‑6c5ce7?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG‑🔍‑6c5ce7?style=for-the-badge&logo=searchengin" />
-</p>
-
 ---
 
 ### 📚 Atualmente aprendendo
