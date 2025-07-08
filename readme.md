@@ -31,11 +31,11 @@ Sou desenvolvedor com foco em **automação, back-end e integrações eficientes
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoantonio567&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_AQUI&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=marcoantonio567&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,9 +50,8 @@ Sou desenvolvedor com foco em **automação, back-end e integrações eficientes
 
 ### 📫 Contato
 
-- ✉️ Email: **seuemail@email.com**
-- 💼 LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)
-- 🔗 Portfólio (opcional): [seusite.com](https://seusite.com)
+- ✉️ Email: **2msoftware.tecnologia@email.com**
+
 
 ---
 
