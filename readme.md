@@ -1,35 +1,39 @@
 <h1 align="center">Marco Antonio 🚀</h1>
-<h3 align="center">Automação de Processos | Apaixonado por IA 🤖</h3>
+<h3 align="center">Process Automation | Passionate about AI 🤖</h3>
 
 ---
 
-### 🧩 Sobre mim
+### 🧩 About Me
 
-Sou um desenvolvedor com foco em **automação, back-end e inteligência artificial**. Trabalho transformando rotinas manuais em soluções automáticas e inteligentes, integrando sistemas, APIs e bancos de dados com eficiência.
+I'm a developer focused on **automation, back-end, and artificial intelligence**. I work on transforming manual routines into automated and intelligent solutions, integrating systems, APIs, and databases efficiently.
 
-- 🐍 Experiência sólida com **Python**, **Django** e **Flask**
-- 🌐 Criação de interfaces com **HTML**, **CSS** e **JavaScript**
-- 🧰 Integração de sistemas com **Postman**, **MySQL**, **SQLite**
-- ⚙️ Automação com **PyAutoGUI** e scripts personalizados
-- 🧠 Estudando **Agentes de IA, LLMs, RAG** e aplicações de IA generativa
+- 🐍 Solid experience with **Python**, **Django**, and **Flask**
+- 🌐 Creating interfaces with **HTML**, **CSS**, and **JavaScript**
+- 🧰 System integration with **Postman**, **MySQL**, **SQLite**
+- ⚙️ Automation with **PyAutoGUI**, **Selenium**, **Playwright**, and custom scripts
+- 🔌 **MCP (Model Context Protocol)** — building servers and connecting agents to external tools
+- 🧠 Studying **AI Agents, LLMs, RAG**, and generative AI applications
 
 ---
 
-### 💼 Tecnologias que utilizo
+### 💼 Technologies I Use
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,sqlite,mysql,postman,pyautogui,git,vscode,openai" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,sqlite,mysql,postman,selenium,git,vscode,openai" />
 </p>
+
+> **Note:** Playwright and MCP are not yet available in the Skill Icons set, but I'm currently using them!
 
 ---
 
-### 📚 Atualmente aprendendo
+### 📚 Currently Learning
 
-- 🤖 Agentes de IA autônomos e pipelines com LLMs
+- 🤖 Autonomous AI agents and LLM pipelines
 - 🧠 Retrieval-Augmented Generation (RAG)
-- 🔄 Integrações assíncronas e arquiteturas reativas
-- 🧼 Clean Code e boas práticas em Python
+- 🔌 **MCP (Model Context Protocol)** — expanding integrations between agents and tools
+- 🔄 Asynchronous integrations and reactive architectures
+- 🧼 Clean Code and Python best practices
 
 ---
 
@@ -44,11 +48,11 @@ Sou um desenvolvedor com foco em **automação, back-end e inteligência artific
 </p>
 
 
-### 📫 Contato
+### 📫 Contact
 
 - ✉️ Email: **[2msoftware.tecnologia@gmail.com]**
 
 
 ---
 
-<p align="center">🧠 “Código é criatividade em forma de lógica.”</p>
+<p align="center">🧠 "Code is creativity in the form of logic."</p>
