@@ -69,6 +69,7 @@ I’m also very interested in the **GeoDev ecosystem**, working with **geospatia
 - 🤖 Autonomous AI agents and LLM pipelines
 - 🧠 Retrieval-Augmented Generation (**RAG**)
 - 🔌 **MCP (Model Context Protocol)** and tool integrations
+- 🌿 **Git worktrees** and **subagents** for more efficient development workflows
 - 🌐 Scalable and modern **web application architecture**
 - 🗺️ **GeoDev**, geospatial workflows, and **PostGIS**
 - 🔄 Asynchronous integrations and reactive architectures
