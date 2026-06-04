@@ -100,13 +100,13 @@ I’m also very interested in the **GeoDev ecosystem**, working with **geospatia
 
 ---
 
-## 🐍 Animated Commits
+## 🧊 3D Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marcoantonio567/marcoantonio567/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
 </div>
 
-> This animation shows my contribution activity in a more dynamic way.
+> A 3D view of my GitHub contribution activity.
 
 ---
 
