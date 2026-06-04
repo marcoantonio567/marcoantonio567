@@ -103,7 +103,7 @@ I’m also very interested in the **GeoDev ecosystem**, working with **geospatia
 ## 🧊 3D Contributions
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D git block contribution calendar" />
 </div>
 
 > A 3D view of my GitHub contribution activity.
